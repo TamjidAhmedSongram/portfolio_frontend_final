@@ -1,6 +1,6 @@
-const Experience = () => {
-    return (<div className="container mx-auto max-w-7xl">
-        <h1 className=" text-3xl font-bold text-center mb-5">Experience</h1>
+const Educations = () => {
+    return (<div className="container mx-auto max-w-7xl my-10">
+        <h1 className=" text-3xl font-bold text-center mb-5">Educations</h1>
         <ul className="steps w-full">
             <li className="step step-primary"><div>
                 <h3>Tau Research Limited</h3>
@@ -17,4 +17,4 @@ const Experience = () => {
         </ul>
     </div>)
 }
-export default Experience
+export default Educations

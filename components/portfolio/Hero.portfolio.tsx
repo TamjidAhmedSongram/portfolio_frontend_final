@@ -25,6 +25,8 @@ const Photographs = () => {
     return (<>
         <Image 
         src="tamjid.png"
+        width={300}
+        height={300}
         />
         
     </>)

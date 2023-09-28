@@ -13,8 +13,6 @@ module.exports = {
     extend: {},
   },
   darkMode: "class",
-  plugins: [nextui(), require("daisyui")],
-  daisyui: {
-    themes: false,
-  },
+  plugins: [nextui()],
+  
 }

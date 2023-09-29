@@ -43,6 +43,7 @@
     "typescript": "5.0.4"
   },
   "devDependencies": {
-    "daisyui": "latest"
+    "daisyui": "latest",
+    "sass": "^1.68.0"
   }
 }

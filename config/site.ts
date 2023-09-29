@@ -49,6 +49,34 @@ export const siteConfig = {
 		sponsor: "https://patreon.com/jrgarciadev"
 	},
 	portfolioPage:{
-		
-	}
+		skills:[{
+			src:"/skills/react-svgrepo-com_c.svg",
+			skill:"React"
+		},{
+			src:"/skills/react-svgrepo-com_c.svg",
+			skill:"React"
+		},{
+			src:"/skills/react-svgrepo-com_c.svg",
+			skill:"React"
+		},{
+			src:"/skills/react-svgrepo-com_c.svg",
+			skill:"React"
+		},{
+			src:"/skills/react-svgrepo-com_c.svg",
+			skill:"React"
+		},{
+			src:"/skills/react-svgrepo-com_c.svg",
+			skill:"React"
+		},{
+			src:"/skills/react-svgrepo-com_c.svg",
+			skill:"React"
+		},{
+			src:"/skills/react-svgrepo-com_c.svg",
+			skill:"React"
+		},{
+			src:"/skills/react-svgrepo-com_c.svg",
+			skill:"React"
+		},]
+	},
+	
 };

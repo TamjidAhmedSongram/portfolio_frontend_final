@@ -6,7 +6,7 @@ const Experience = () => {
     <div className="relative mt-5 text-left md:grid md:grid-cols-3 md:gap-12">
         
         {siteConfig.experience.map((item,index)=>{
-            return<div className="flex items-center relative">
+            return<div className="flex items-center relative" key={index}>
             <div className="hidden md:block w-20">
                 <div className="font-bold italic">{item.year}</div>
                 <div className="md:flex space-x-1 text-xs">

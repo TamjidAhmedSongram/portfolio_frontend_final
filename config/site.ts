@@ -101,3 +101,4 @@ export const siteConfig = {
 		jobDescription:"Designed captivating animations for Walton Digitech, crafted an elegant e-commerce frontend with Material UI and ReactJS, and developed a feature-rich Stockmate website."
 	},]
 };
+
